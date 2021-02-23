@@ -1,13 +1,21 @@
 #### Jae-Jin Choi @svstar94 ![createdby](https://img.shields.io/badge/Created%20by-sosin-blueviolet?style=plastic&logo=visual-studio-code&logoColor=skyblue)
 
-Interests: `Computer Vision`, `Python`, `RPA`, `Management Scinece`, `Smart Factory`
+Interests: `Computer Vision`, `Python`, `RPA`, `Management Scinece`, `Smart Factory`, `ERP`
 
 
 
 👨‍💼**Status**
 
 - White Water ![createdby](https://img.shields.io/badge/白水-black?style=plastic)
-- Study AI, Coding Test Algorithms
+- Working on two projects
+
+
+
+🚀**Projects**
+
+- Object Detection 활용 핸즈프리 쇼핑 앱 Easy Free [DETR Modeling](https://github.com/EasyFree-Project/EasyFree-Backend), [Android](https://github.com/EasyFree-Project/EasyFree-Android) 개발 [Google Play](https://play.google.com/store/apps/details?id=com.sosin.easyfree) 
+- 블랑캣 자사몰 홈페이지 개편 (2021.02.23 ~ 진행 中)
+- Web 기반 ERP 시스템 구축 (2021.03.01 ~ 2021.08.31 종료 예정)
 
 
 
@@ -16,13 +24,8 @@ Interests: `Computer Vision`, `Python`, `RPA`, `Management Scinece`, `Smart Fact
 - `KB` **Future Finance A.I. Challenge** 7th/?
 - `Kaggle` **Housing Prices Competition** 2564th/58390 (5%)
 - `Kaggle` **Digit Recognizer** 233th/2115 (11%)
-- `Dacon` **제 2회 컴퓨터 비전 학습 경진대회** (진행 중)
-
-
-
-🚀**Projects**
-
-- Object Detection 활용 핸즈프리 쇼핑 앱 Easy Free [DETR Modeling](https://github.com/EasyFree-Project/EasyFree-Backend), [Android](https://github.com/EasyFree-Project/EasyFree-Android) 개발 [Google Play](https://play.google.com/store/apps/details?id=com.sosin.easyfree) (추가 진행 고민중)
+- `Hackerton` **AI학습용 한국인 두피 상태 이미지 데이터 활용 아이디어** (제출 완료)
+- `Dacon` **제 2회 컴퓨터 비전 학습 경진대회** (진행 中)
 
 
 
@@ -46,6 +49,14 @@ Interests: `Computer Vision`, `Python`, `RPA`, `Management Scinece`, `Smart Fact
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /><img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 - Gaming  
   <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+
+
+
+**💬Certificate**
+
+- CPIM (국제 생산재고관리사)
+- 물류관리사
+- ADsP (데이터 분석 준전문가)
 
 
 
