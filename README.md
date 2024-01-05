@@ -6,22 +6,25 @@
 
 ## **Stack** ✨
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&style=plastic)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&style=plastic)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&style=plastic)
+![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54&style=plastic)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white&style=plastic)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white&style=plastic)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?&logo=fastapi&style=plastic)
 
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=plastic)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=plastic)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic)
+![Java](https://img.shields.io/badge/Java-007396?&logo=openjdk&logoColor=white&style=plastic)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?&logo=springboot&logoColor=white&style=plastic)
+
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=plastic)
+![React](https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=plastic)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white&style=plastic)
 
 <br>
 
 ## **Contacts** 💗
 
 [![Notion](https://img.shields.io/badge/Notion-000000?&logo=notion&logoColor=white&style=flat-sqaure)](https://devsosin.notion.site/7c6bf0f9256f4e43b1bbde7d2a449cdc)
-[![velog](https://img.shields.io/badge/velog-white?&logo=velog&logoColor=20C997&style=flat-sqaure)](https://velog.io/@svstar94)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-sqaure&logo=gmail&logoColor=white)](mailto:svstar94@gmail.com)
+[![Tistory](https://img.shields.io/badge/tistory-000000?&logo=tistory&logoColor=white&style=flat-sqaure)](https://wolfy.tistory.com/)
 
 ## **Stats** 🛩️
 
